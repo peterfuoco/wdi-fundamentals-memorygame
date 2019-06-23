@@ -1,0 +1,106 @@
+
+h1 {
+text-decoration: none;
+font-family: RALEWAY;
+color:  #0D2C6O;
+font-weight: 400
+font-size: 45px;
+letter-spacing: 1px
+margin: 0;
+}
+
+h2 {
+	font-family: RALEWAY;
+	color: #F15B31
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 18px;
+}
+h3{
+	font-family: RALEWAY;
+	color: #0D2C6O;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;
+	text-decoration: none;
+}
+p{
+
+	font-family: "DROID SERIF";
+	line-height: 26px
+	font-size: 18px;
+}
+
+body {
+text-align: center;
+text-decoration: none;
+margin: 0;
+}
+
+header{
+	background-color: #F15B31;
+	color: #FFFFFF;
+	padding: 30px 20px;
+}
+
+nav{
+background-color: #00A6B3;
+color:#FFFFFF;
+padding: 20px 20px;
+}
+
+a{
+	margin: 20px 20px;
+	color: #FFFFFF;
+	border-bottom: 2px solid transparent;
+}
+
+main {
+	width: 850px;
+	margin: 35px auto;
+}
+
+img {
+	margin:40px 8px;
+}
+
+footer {
+	text-transform: uppercase;
+	padding: 0px 20px;
+	background-color: #0D2C40;
+	color: white;
+	font-size: 14px;
+	letter-spacing: .08em;
+	font-weight: 500;
+}
+
+.copyright{
+	font-family: RALEWAY;
+	float: left;
+}
+
+.message{
+	font-family: RALEWAY;
+	float: right;
+}
+
+.clearfix:after {
+visibility: hidden;
+display: block;
+content: " ";
+clear: both;
+height: 0;
+font-size: 0;
+}
+
+.name{
+	color: #F15B31;
+	font-weight: 700;
+}
+
+a:hover {
+	border-color: white;
+}
+
+
+
